@@ -4,3 +4,4 @@ membuat program pendidikan
 - mebuat program latihan soal
 membuat website 
 belajar framework javascript react
+belajar swift
