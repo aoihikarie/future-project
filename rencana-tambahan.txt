@@ -6,5 +6,5 @@ membuat program pendidikan
 - membuat program teka teki silang
 membuat website 
 belajar framework javascript react
-menguasai python
+belajar swift
 menguasai kotlin
