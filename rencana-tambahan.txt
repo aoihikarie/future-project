@@ -7,3 +7,4 @@ membuat program pendidikan
 membuat website 
 belajar framework javascript react
 menguasai python
+menguasai kotlin
