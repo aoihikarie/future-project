@@ -1,6 +1,9 @@
 membuat program koperasi
 - membuat program android
+- membuat program ios
 membuat program pendidikan
 - mebuat program latihan soal
+- membuat program teka teki silang
 membuat website 
 belajar framework javascript react
+menguasai python
